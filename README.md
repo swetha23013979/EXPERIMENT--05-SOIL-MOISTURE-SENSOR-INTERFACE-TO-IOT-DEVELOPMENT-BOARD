@@ -111,7 +111,8 @@ GND is the ground pin.
 
 
 ## Output screen shots on serial monitor   :
- 
+ <img width="1916" height="974" alt="image" src="https://github.com/user-attachments/assets/2e4ace51-ac12-4ba8-924a-f57b0e1788b2" />
+
  
  
  
